@@ -14,6 +14,11 @@ I am a seasoned software developer and DevOps engineer with over 5 years of expe
 - 🌟 Designing and developing Microservices and Serverless architectures
 - 🌟 Managing projects with tools like Jira, Click Up, and Trello
 
+## Social profile
+- 🌟 [Upwork](https://www.upwork.com/freelancers/~010055bfe11ce4bfcb)
+- 🌟 [Credly](https://www.credly.com/users/jay-kotadiya/badges)
+- 🌟 [Linkedin](https://www.linkedin.com/in/j1gne5h/)
+
 ## Technical Skills:
 
 #### Python:
