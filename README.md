@@ -18,7 +18,6 @@ I am a seasoned software developer and DevOps engineer with over 5 years of expe
 - 🌟 [Upwork](https://www.upwork.com/freelancers/~010055bfe11ce4bfcb)
 - 🌟 [Credly](https://www.credly.com/users/jay-kotadiya/badges)
 - 🌟 [LinkedIn](https://www.linkedin.com/in/j1gne5h)
-- 🌟 [X](https://x.com/jay_k0tadiya)
 
 ## Technical Skills:
 
