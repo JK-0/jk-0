@@ -53,3 +53,30 @@ I am a seasoned software developer and DevOps engineer with over 5 years of expe
 I believe in continuous improvement and strive to grow with every project. Feel free to reach out to discuss how I can contribute to your project's success.
 
 Looking forward to collaborating!
+
+## 🧰 Languages and Tools:
+<p align="center">
+<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python" height="70" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Javascript" height="70" style="vertical-align:top; margin:4px">
+<img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django" height="70" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" height="60" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" height="60" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" height="60" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" height="60" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" height="60" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" height="60" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue.js" height="60" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg" alt="jQuery" height="60" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" height="60" style="vertical-align:top; margin:4px">
+<img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" height="60" style="vertical-align:top; margin:4px">
+<img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="SQLite" height="60" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" height="60" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" height="60" style="vertical-align:top; margin:4px">
+<img src="https://numpy.org/images/logo.svg" alt="Numpy" height="60" style="vertical-align:top; margin:4px">
+<img src="https://pandas.pydata.org/docs/_static/pandas.svg" alt="Pandas" height="60" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium" height="60" style="vertical-align:top; margin:4px">
+<img src="https://docs.python-requests.org/en/latest/_static/requests-sidebar.png" alt="Requests" height="60" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" alt="VS Code" height="60" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash/Shell Scripting" height="60" style="vertical-align:top; margin:4px">
+
+</p>
